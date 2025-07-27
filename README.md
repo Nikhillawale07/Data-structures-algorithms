@@ -1,2 +1,2 @@
-# DSA-Practical
+# data-structures-algorithms
 
